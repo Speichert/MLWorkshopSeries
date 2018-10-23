@@ -1,0 +1,5 @@
+Sources:
+
+VectorMatrix - https://www.mathsisfun.com/algebra/scalar-vector-matrix.html
+
+trainTestVal - https://am207.github.io/2017/wiki/validation.html
